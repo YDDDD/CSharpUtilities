@@ -1,0 +1,7 @@
+#binary file
+/YdUtilities/obj/*
+/YdUtilities/bin/*
+
+#nuget package files
+/packages/*
+
